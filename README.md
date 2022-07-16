@@ -7,7 +7,7 @@ This capstone project course will give you a taste of what data scientists go th
 [API data collection](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Data%20Cleaning).ipynb), 
 [web scraping data collection](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Web%20Scraping).ipynb), 
 [data wrangling](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Data%20Wrangling).ipynb), 
-[data analysis](), 
+[data analysis](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/Spacex%20Assessment(data%20analysis-sqllite).ipynb), 
 [data visualization](), 
 [model development](), 
 [model evaluation](), 
