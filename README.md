@@ -6,7 +6,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving 
 [API data collection](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Data%20Cleaning).ipynb), 
 [web scraping data collection](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Web%20Scraping).ipynb), 
-[data wrangling](), 
+[data wrangling](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Data%20Wrangling).ipynb), 
 [data analysis](), 
 [data visualization](), 
 [model development](), 
