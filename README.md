@@ -11,7 +11,7 @@ This capstone project course will give you a taste of what data scientists go th
 [data visualization using graphs and charts](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/Spacex%20Assessment(Data%20Visualization).ipynb), 
 [data visualization analytics using Folium](),
 [data visualization using interactive dashboards](),
-[model development and evaluation](), 
+[machine learning model building](), 
 and 
 [reporting]() 
 your results to stakeholders. You are tasked with predicting whether or not the first stage of the SpaceX Falcon 9 rocket will land successfully. 
