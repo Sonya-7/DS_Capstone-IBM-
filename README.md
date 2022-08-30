@@ -32,3 +32,6 @@ $$Accuracy  =  \frac{TP+TN} {TP+FP+TN+FN}$$
 ## Deliverables
 - Accurate predictive algorithms
 - Business case report to stakeholders
+
+## Thank you
+Please feel free to leave a comment in the google slide presentation in the website link.
