@@ -11,7 +11,7 @@ This capstone project is intended to mimic a real world Data Science problem and
 [data visualization using interactive dashboards](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/spacex_dash_app.py),
 [machine learning model building](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/Spacex%20Assessment(Machine%20Learning%20Models).ipynb), 
 and 
-[presentation of findings](https://docs.google.com/presentation/d/1dg94KpvfD_gozRHZTbZWCkTCzSNEkZCJh0rKmO5O1SU/edit?usp=drivesdk). 
+[presentation of findings](https://docs.google.com/presMachine Learning Model entation/d/1dg94KpvfD_gozRHZTbZWCkTCzSNEkZCJh0rKmO5O1SU/edit?usp=drivesdk). 
 I am tasked with predicting whether or not the first stage of the SpaceX Falcon 9 rocket will land successfully. 
 
 ## Business Problem
@@ -23,13 +23,13 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 - To relate findings to stakeholders
 
 ## Business metric
-Classification accuracy: number of correct prediction divided by the total number of prediction defined as:
+Machine Learning Model Classification Accuracy: number of correct prediction divided by the total number of prediction
 
 $$ Accuracy  =  \frac{TP+TN} {TP+FP+TN+FN} $$
 
 ## Deliverables
 - Accurate predictive algorithms
-- Business case report to stakeholders
+- Business case report for stakeholders
 
 ## Thank you
-Please feel free to leave a comment in the google slide presentation. I appreciate constructive criticism. 
+Please feel free to leave a comment in my google slide presentation. I always welcome constructive criticism. 
