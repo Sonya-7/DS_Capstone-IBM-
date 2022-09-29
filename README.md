@@ -11,7 +11,9 @@ This capstone project is intended to mimic a real world Data Science problem and
 [interactive data visualization / dashboard development](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/spacex_dash_app.py),
 [machine learning model building](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/Spacex%20Assessment(Machine%20Learning%20Models).ipynb), 
 and 
-[presentation of findings](https://docs.google.com/presMachine Learning Model entation/d/1dg94KpvfD_gozRHZTbZWCkTCzSNEkZCJh0rKmO5O1SU/edit?usp=drivesdk). 
+[presentation of findings](https://docs.google.com/presMachine Learning Model entation/d/1dg94KpvfD_gozRHZTbZWCkTCzSNEkZCJh0rKmO5O1SU/edit?usp=drivesdk)
+.
+
 
 ## Business Problem
 SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if an accurate prediction of the likelihood of the first stage rocket landing successfully can be achieved, it is possible to determine the cost of a launch. With the help of these Data Science findings and models, the competing startup can make more informed bids against SpaceX for a rocket launch. 
