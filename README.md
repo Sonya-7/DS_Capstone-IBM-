@@ -28,6 +28,10 @@ Machine Learning Model Classification Accuracy: number of correct prediction div
 
 $$ Accuracy  =  \frac{TP+TN} {TP+FP+TN+FN} $$
 
+<p  align="center">
+  <img  src="https://user-images.githubusercontent.com/92489108/233760433-4b5686e7-77af-4d25-93e2-32fecd2d8c45.png" width=15% height=15% />
+</P>
+
 ## Deliverables
 - Accurate predictive algorithms
 - Business case report for stakeholders
