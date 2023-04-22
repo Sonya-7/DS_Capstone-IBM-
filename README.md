@@ -11,7 +11,7 @@ This capstone project is intended to mimic a real world Data Science problem and
 [interactive data visualization / dashboard development](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/spacex_dash_app.py),
 [machine learning model building](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/Spacex%20Assessment(Machine%20Learning%20Models).ipynb), 
 and 
-[presentation of findings](https://docs.google.com/presentation/d/1dg94KpvfD_gozRHZTbZWCkTCzSNEkZCJh0rKmO5O1SU/edit?usp=sharing)
+[presentation of findings](https://docs.google.com/presentation/d/1D1IVyxTffZ7tjNsF4RizdzksX14EEE6i/edit?usp=sharing&ouid=110833041343711162548&rtpof=true&sd=true)
 .
 
 
