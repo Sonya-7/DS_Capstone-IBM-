@@ -16,7 +16,8 @@ and
 
 
 ## Business Problem
-SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if an accurate prediction of the likelihood of the first stage rocket landing successfully can be achieved, it is possible to determine the cost of a launch. With the help of these Data Science findings and models, the competing startup can make more informed bids against SpaceX for a rocket launch. 
+[SpaceX](https://www.spacex.com/vehicles/falcon-9/) 
+advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if an accurate prediction of the likelihood of the first stage rocket landing successfully can be achieved, it is possible to determine the cost of a launch. With the help of these Data Science findings and models, the competing startup can make more informed bids against SpaceX for a rocket launch. 
 
 ## Objective
 - To apply Data Science toolkit and machine learning model building in order to accurately predict the likelihood of the first stage rocket landing successfully, and determine the cost of a launch.
