@@ -1,7 +1,7 @@
 ## Introduction
-This capstone project is intended to predict the likelihood of the Falcon 9 first stage landing successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of $62 million; other providers cost upward of $165 million each, much of the savings is because SpaceX can reuse the first stage of it's rockets after launch. Therefore, if we can determine if the first stage will land, we can estimate the cost of a launch. This information can prove to be very insightful for an alternate company that wants to bid against SpaceX for a rocket launch. 
+This capstone project predicts the likelihood of the Falcon 9 first stage landing successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 million; other providers cost upward of $165 million each. Much of the savings is because SpaceX can reuse the first stage of it's rockets after launch. If we can determine whether the first stage will land, we can estimate the cost of a launch. This information can prove to be very insightful for an alternate company that wants to bid against SpaceX for a rocket launch.
 
-This capstone project is intended to mimic a real world Data Science problem and is my first attempt at putting all my Data Science knowlegde together in one body of work. I have assumed the role of a Data Scientist working for a startup company intending to compete with SpaceX, and in the process I followed the Data Science methodology involving 
+This project mimics a real world Data Science problem and is my first attempt at putting all my Data Science knowlegde together in one body of work. I have assumed the role of a Data Scientist working for a startup company intending to compete with SpaceX. In the process I followed the Data Science methodology involving 
 [API data collection](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Data%20Cleaning).ipynb), 
 [web scraping data collection](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Web%20Scraping).ipynb), 
 [data wrangling](https://github.com/Sonya-7/DS_IBM_Capstone/blob/master/SpaceX%20Assessment%20(Data%20Wrangling).ipynb), 
@@ -38,4 +38,4 @@ $$ Accuracy  =  \frac{TP+TN} {TP+FP+TN+FN} $$
 - Business case report for stakeholders
 
 ## Thank you
-Please feel free to leave a comment in my google slide presentation. I always welcome constructive criticism. 
+Please feel free to leave a comment in my google slide presentation of findings. I always welcome constructive criticism.
